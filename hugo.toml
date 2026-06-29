@@ -1,0 +1,15 @@
+baseURL = 'https://ureka.top/'
+languageCode = 'zh-cn'
+title = 'Ureka'
+theme = 'PaperMod'
+defaultContentLanguage = 'zh'
+hasCJKLanguage = true
+
+[params]
+  author = 'ureka'
+  description = '个人博客与学习笔记'
+  ShowReadingTime = true
+  ShowToc = true
+  TocOpen = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
