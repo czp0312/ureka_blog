@@ -1,7 +1,7 @@
 baseURL = 'https://ureka.top/'
 languageCode = 'zh-cn'
 title = 'Ureka'
-theme = 'PaperMod'
+theme = 'hugo-theme-stack-4.0.3'
 defaultContentLanguage = 'zh'
 hasCJKLanguage = true
 
