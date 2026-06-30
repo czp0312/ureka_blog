@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .File.ContentBaseName `-` ` ` | title }}"
+title: testing
 draft: false
 description: 测试
 summary: ""
@@ -9,8 +9,8 @@ tags: []
 keywords:
 author: ureka
 weight: 99
-date: 2026-06-30 14:15:41
-lastmod: 2026-06-30 14:40:36
+date: 2026-06-30T14:15:41+08:00
+lastmod: 2026-06-30T14:50:01+08:00
 ---
 ## 前言
 
