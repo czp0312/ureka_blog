@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .File.ContentBaseName `-` ` ` | title }}"
-draft: true
+draft: false
 description: 测试
 summary: ""
 slug: ""
@@ -10,7 +10,7 @@ keywords:
 author: ureka
 weight: 99
 date: 2026-06-30 14:15:41
-lastmod: 2026-06-30 14:34:57
+lastmod: 2026-06-30 14:40:36
 ---
 ## 前言
 
