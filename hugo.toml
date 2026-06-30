@@ -1,3 +1,4 @@
+#基本信息
 baseURL = "https://ureka.top/"
 languageCode = "zh-cn"
 title = "Ureka"
@@ -16,7 +17,7 @@ description = "记录科研、技术与学习"
 [params.sidebar]
 compact = false
 emoji = "🐟"
-subtitle = "记录仿生机器人、编程与学习"
+subtitle = "记录生活与技术"
 
 [params.article]
 toc = true
@@ -53,3 +54,7 @@ weight = -100
 
 [menu.main.params]
 icon = "home"
+
+#关闭评论区
+[params.comments]
+enabled = false
